@@ -13,7 +13,7 @@ Images are included via Unsplash URLs.
 Icons use inline SVGs for scalability and easy styling.
 
 # Deployment
-This React project can be deployed easily on platforms like GitHub Pages, Netlify, or Vercel by building the app (typically with npm run build or yarn build) and uploading the build output.
+This React project can be deployed easily on platform  Vercel by building the app and uploading the build output.
 
 # Notes
 Images are sourced from Unsplash via URLs.
